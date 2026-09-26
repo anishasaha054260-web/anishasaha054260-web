@@ -33,6 +33,9 @@ When I'm not coding a project, I'm probably stuck on a DSA problem in C++ or Jav
 ### Connect with me
 
 <p align="center">
+  <a href="https://anishasaha054260-web.github.io/anisha-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20site-ff6b9d?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/anisha-saha-955892325/">
     <img src="https://img.shields.io/badge/LinkedIn-Anisha%20Saha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
